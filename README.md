@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sylviacxj
-- 👀 I’m interested in image analysis
+- 👀 I’m interested in statistics
 - 🌱 I’m currently learning chemical biology
 - 💞️ I’m looking to collaborate on proteomic sequencing data
 - 📫 How to reach me, by email
